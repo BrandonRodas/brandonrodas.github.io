@@ -1,0 +1,60 @@
+
+h1{
+	color: white;
+	text-align: center;
+	background-color: black;
+	border-radius: 25px
+}
+
+h2{
+	color: red;
+	text-align: center;
+}
+
+
+header{ text-align: left;
+color: white}
+
+.CVbutton{ text-align: center;}
+
+.row{ text-align: left; 
+
+}
+
+body{
+	
+font-family: arial; 
+background-image: url(http://cdn.paper4pc.com/images/snowy-mountains-hd-wallpaper-1.jpg);
+background-position: center;
+background-size: 180em;
+background-repeat: no-repeat;
+}
+
+footer{ background-color: green }
+
+.navbox a{color: gold;
+	
+list-style-type: none;}
+ a:hover {color:cyan;}
+/*a: visited {color: white;*/}
+
+nav{text-align: center;}
+
+nav ul{list-style-type: none;}
+
+p{ text-align: center ;
+	background-color: white
+;
+border-radius: 25px;}
+
+#Taco{ margin-left: 35%;
+
+	height: 500px;
+	width: 600px;
+}
+.Title {color: white; }
+li {list-style-type: none;
+color: white;}
+.id {text-align: center;}
+.works{text-align: left;}
+{float: middle;}
