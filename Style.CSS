@@ -20,7 +20,8 @@ color: white}
 .row{ text-align: left; 
 
 }
-
+/*Below is the colour layout I chose for the background of my website, as you can see i chose an
+image instead of a colour as i believed that the image made the website much nicer to look at*/
 body{
 	
 font-family: arial; 
@@ -31,7 +32,8 @@ background-repeat: no-repeat;
 }
 
 footer{ background-color: green }
-
+/*As you can see below i have set colours for the navigation box, when the buttons are not presed they
+should be gold but when hovered over them they should then appear as cyan*/
 .navbox a{color: gold;
 	
 list-style-type: none;}
@@ -46,15 +48,19 @@ p{ text-align: center ;
 	background-color: white
 ;
 border-radius: 25px;}
-
+/*This image below of a Taco, is a random image put in place for the "MY CV" button as i could not find
+the file for my actualy cv*/
 #Taco{ margin-left: 35%;
 
-	height: 500px;
+	height: 500px; /*As you can see to the left i entered details to arrange the size of the image to fit the
+	screen perfectly*/
 	width: 600px;
 }
+/*The following instructions are in place to set the colour of my title to White to fit in with the
+ black background*/
 .Title {color: white; }
 li {list-style-type: none;
 color: white;}
 .id {text-align: center;}
 .works{text-align: left;}
-{float: middle;}
+{float: middle;} /
